@@ -1,0 +1,67 @@
+2017年4月26日 
+プログラミング演習Ⅰ 第2回 課題2 問題2
+BP16057 高橋 美帆
+
+[bp16057@localhost ~]$ ./a.out
+Number of strings -> 4
+Input strings -> sunday
+Input strings -> monday
+Input strings -> tuesday
+Input strings -> wednesday
+
+Before sorting
+4
+sunday
+monday
+tuesday
+wednesday
+
+After sorting
+4
+monday
+sunday
+tuesday
+wednesday
+[bp16057@localhost ~]$ ./a.out
+Number of strings -> 4
+Input strings -> january
+Input strings -> february
+Input strings -> march
+Input strings -> april
+
+Before sorting
+4
+january
+february
+march
+april
+
+After sorting
+4
+march
+april
+january
+february
+[bp16057@localhost ~]$ ./a.out
+Number of strings -> 5
+Input strings -> one
+Input strings -> two
+Input strings -> three
+Input strings -> four
+Input strings -> five
+
+Before sorting
+5
+one
+two
+three
+four
+five
+
+After sorting
+5
+two
+one
+four
+five
+three
