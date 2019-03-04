@@ -1,0 +1,32 @@
+2017年5月31日
+プログラミング演習Ⅰ 第6回 問題1
+BP16057 高橋 美帆
+
+[bp16057@localhost ~]$ ./a.out
+
+pushする文字かpop/endを入力して下さい→ a
+->a
+pushする文字かpop/endを入力して下さい→ b
+->b->a
+pushする文字かpop/endを入力して下さい→ end
+スタックを空にしました。
+プログラムを終了します。
+[bp16057@localhost ~]$ ./a.out
+
+pushする文字かpop/endを入力して下さい→ c
+->c
+pushする文字かpop/endを入力して下さい→ d
+->d->c
+pushする文字かpop/endを入力して下さい→ pop
+popされた文字はdです。
+pushする文字かpop/endを入力して下さい→ pop
+popされた文字はcです。
+pushする文字かpop/endを入力して下さい→ pop
+スタックは空です。
+
+pushする文字かpop/endを入力して下さい→ e
+->e
+pushする文字かpop/endを入力して下さい→ pp
+不正な入力です。
+スタックを空にしました。
+プログラムを終了します。
